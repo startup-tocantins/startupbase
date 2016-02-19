@@ -1,27 +1,70 @@
-<header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+    <!-- start header -->
+    <div class="header_bg">
+      <div class="wrap">
+        <div class="header">
+          <div class="logo">
+            <a href="index.html"><img src="images/logo.png" alt=""/> </a>
+          </div>
+          <div class="h_icon">
+            <ul class="icon1 sub-icon1">
+              <li><a class="active-icon c1" href="#"><i>$300</i></a>
+              <ul class="sub-icon1 list">
+                <li><h3>shopping cart empty</h3><a href=""></a></li>
+                <li><p>if items in your wishlit are missing, <a href="contact.html">contact us</a> to view them</p></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="h_search">
+          <form>
+            <input type="text" value="">
+            <input type="submit" value="">
+          </form>
+        </div>
+        <div class="clear"></div>
       </div>
-    </nav>
-
+    </div>
   </div>
-
-</header>
+  <div class="header_btm">
+    <div class="wrap">
+      <div class="header_sub">
+        <div class="h_menu">
+          <ul>
+            <li class="active"><a href="index.html">Home</a></li> |
+            <li><a href="sale.html">sale</a></li> |
+            <li><a href="handbags.html">handbags</a></li> |
+            <li><a href="accessories.html">accessories</a></li> |
+            <li><a href="wallets.html">wallets</a></li> |
+            <li><a href="sale.html">sale</a></li> |
+            <li><a href="index.html">mens store</a></li> |
+            <li><a href="shoes.html">shoes</a></li> |
+            <li><a href="sale.html">vintage</a></li> |
+            <li><a href="service.html">services</a></li> |
+            <li><a href="contact.html">Contact us</a></li>
+          </ul>
+        </div>
+        <div class="top-nav">
+          <nav class="nav">
+            <a href="#" id="w3-menu-trigger"> </a>
+            <ul class="nav-list" style="">
+              <li class="nav-item"><a class="active" href="index.html">Home</a></li>
+              <li class="nav-item"><a href="sale.html">Sale</a></li>
+              <li class="nav-item"><a href="handbags.html">Handbags</a></li>
+              <li class="nav-item"><a href="accessories.html">Accessories</a></li>
+              <li class="nav-item"><a href="shoes.html">Shoes</a></li>
+              <li class="nav-item"><a href="service.html">Services</a></li>
+              <li class="nav-item"><a href="contact.html">Contact</a></li>
+            </ul>
+          </nav>
+          <div class="search_box">
+            <form>
+              <input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}"><input type="submit" value="">
+            </form>
+          </div>
+          <div class="clear"> </div>
+          <script src="js/responsive.menu.js"></script>
+        </div>
+        <div class="clear"></div>
+      </div>
+    </div>
+  </div>
