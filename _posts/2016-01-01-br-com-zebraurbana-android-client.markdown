@@ -18,5 +18,6 @@ email:                "contato@zebraurbana.com.br"
 youtube_video_ids:    ""
 category_url:         "SHOPPING"
 market_url:           "https://play.google.com/store/apps/details?id=br.com.zebraurbana.android.client&hl=en"
+featured:              false
 ---
-<div jsname="C4s9Ed">O aplicativo Zebra Urbana permite a visualização das ofertas ativas, onde você pode visualizar todos os detalhes de uma específica. Por meio do aplicativo também é possível realizar a compra (pagamento via PagSeguro), lista as atuais compra, listar seus cupons e visualizá-lo.</div> <div jsname="WJz9Hc" style="display:none">The Urban Zebra application allows viewing of active offers, where you can view all the details of a specific. Through the application you can also make the purchase (payment via PagSeguro), lists the current purchase, list their coupons and view it.</div> <div class="show-more-end" jsaction="click:vhaaFf"></div>
+O aplicativo Zebra Urbana permite a visualização das ofertas ativas, onde você pode visualizar todos os detalhes de uma específica. Por meio do aplicativo também é possível realizar a compra (pagamento via PagSeguro), lista as atuais compra, listar seus cupons e visualizá-lo. The Urban Zebra application allows viewing of active offers, where you can view all the details of a specific. Through the application you can also make the purchase (payment via PagSeguro), lists the current purchase, list their coupons and view it. 

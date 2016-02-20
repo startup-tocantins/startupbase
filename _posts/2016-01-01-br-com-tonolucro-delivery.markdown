@@ -18,5 +18,6 @@ email:                "delivery@tonolucro.com.br"
 youtube_video_ids:    ""
 category_url:         "BUSINESS"
 market_url:           "https://play.google.com/store/apps/details?id=br.com.tonolucro.delivery&hl=en"
+featured:              false
 ---
-<div jsname="C4s9Ed">O aplicativo Tonolucro Delivery é um serviço de entrega conectado com os melhores estabelecimentos da cidade, escolha a melhor opção para matar sua fome e receba em sua casa.<br>Não perca tempo, veja como é simples fazer o seu pedido.<br>Tô no lucro!</div> <div jsname="WJz9Hc" style="display:none">The Tonolucro Delivery application is a delivery service connected with the best establishments in the city, choose the best option to kill your hunger and receive in your home.<br>Do not waste time, see how simple it is to make your request.<br>'m In profit!</div> <div class="show-more-end" jsaction="click:vhaaFf"></div>
+O aplicativo Tonolucro Delivery é um serviço de entrega conectado com os melhores estabelecimentos da cidade, escolha a melhor opção para matar sua fome e receba em sua casa.Não perca tempo, veja como é simples fazer o seu pedido.Tô no lucro! The Tonolucro Delivery application is a delivery service connected with the best establishments in the city, choose the best option to kill your hunger and receive in your home.Do not waste time, see how simple it is to make your request.'m In profit! 

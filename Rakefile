@@ -2,7 +2,7 @@ require 'rubygems'
 require 'market_bot'
 require 'pry'
 require 'erb'
-require 'htmlentities'
+require 'action_view'
 
 
 task :getapps do
@@ -20,7 +20,8 @@ def get_play_information(package)
     puts "downloading information from #{package}"
     app = MarketBot::Android::App.new(package)
     app.update
-    description  = HTMLEntities.new.decode app.description
+    description  = ActionView::Base.full_sanitizer.sanitize(app.description) 
+  
     post_template = File.open('_templates/post.erb','r').read
     post = File.new(post_file,'w+')
     renderer = ERB.new(post_template)
