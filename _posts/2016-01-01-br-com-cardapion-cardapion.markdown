@@ -1,0 +1,30 @@
+---
+layout:               post
+title:                "CardapiOn: Guia Gastronômico"
+date:                 "November 3, 2015"
+categories:           "Travel & Local"
+app_id:               "br.com.cardapion.cardapion"
+rating:               "4.8"
+installs:             "1,000 - 5,000"
+size:                 "1.2M"
+price:                "0"
+content_rating:       "All agesLearn more"
+votes:                "85"
+developer:            "Plus API"
+banner_icon_url:      "lh3.googleusercontent.com/o7f8FGF99OFOqeEaeNGGhfjAQZmtfyUOCBreMDHfjUagvnVfyUYoOihLxjxWk-oU-OCS=w300"
+banner_image_url:     "lh3.googleusercontent.com/o7f8FGF99OFOqeEaeNGGhfjAQZmtfyUOCBreMDHfjUagvnVfyUYoOihLxjxWk-oU-OCS=w300"
+website_url:          "http://www.cardapion.com.br"
+email:                "cardapion.app@gmail.com"
+youtube_video_ids:    ""
+category_url:         "TRAVEL_AND_LOCAL"
+market_url:           "https://play.google.com/store/apps/details?id=br.com.cardapion.cardapion&hl=en"
+---
+<div jsname="C4s9Ed">• O CardapiOn é um Guia Gastronômico de Cardápios Online;<br>• Permite os usuários encontrarem bares, restaurantes e lanchonetes e conhecerem seus cardápios e promoções disponíveis na plataforma.<p>• Possui uma Interface simples, onde distribui os estabelecimentos em categorias, facilitando o manuseio dos usuários:</p>
+<p>•• Procurar: pesquisa pelo nome do estabelecimento ou pelo que você deseja comer;<br>•• Perto de Mim: Descubra os estabelecimentos "abertos" que estão próximos de você em apenas 1 CLICK;<br>•• Ofertas e Promoções: Apresentamos as ofertas e promoções do dia oferecidas pelos estabelecimentos parceiros e destacamos em um lugar no site especial para você curtir e economizar;<br>•• Faz Entrega: Está indisposto, com aquela preguiça e/ou cansaço? Então veja as empresas que fazem entrega! Veja o cardápio e ligue para fazer seu pedido;<br>•• Abertos Agora: Quer ir em um lugar diferente e não sabe? Veja quem está Aberto Agora!<br>•• Categorias: Já sabe o que quer comer, mas não sabe onde comer? Então escolha uma das nossas categorias e veja os melhores da cidade;<br>•• Informações: Veja os serviços oferecidos pelo estabelecimento pesquisado/selecionado: Endereço, Telefones, horários de funcionamento, formas de pagamentos e demais serviços.<br>•• Cardápios: Conheça os produtos e preços, classificados e organizados em grupos.<br>••  Como Chegar: Mostramos para você o caminho! Apresentamos através do Google Maps a sua posição e a posição exata de todos os estabelecimentos que deseja ir e traçamos uma rota para que você se desloque com melhor facilidade e conforto.<br>•• Fotos dos Pratos: Nossos cardápios possuem fotos ilustrativas dos produtos para aguçar a sua vontade de comer;</p>
+<p>• O CardapiOn é o guia ideal para você que quer conhecer melhor a gastronomia da sua cidade sem perder tempo. </p>
+<p>♥ Siga a gente no Instagram: <a href="https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.instagram.com/appcardapion%26sa%3DD%26usg%3DAFQjCNEHjesO5UIjKURMYoOABrG4d3hoXg&sa=D&usg=AFQjCNGLPRtGU1OFSXn2aNiKjrq007nWnw" target="_blank">http://www.instagram.com/appcardapion</a><br>♣ Curta a nossa página no Facebook: <a href="https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.facebook.com/appcardapion%26sa%3DD%26usg%3DAFQjCNHv8A5s8gT8999B9AQ317c8IKu3ig&sa=D&usg=AFQjCNEO_DS0iX6_tJ_nWwTNnTUTqjnQIw" target="_blank">http://www.facebook.com/appcardapion</a><br>♦ Saiba mais sobre o CardapiOn® em: <a href="https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://www.cardapion.com.br%26sa%3DD%26usg%3DAFQjCNE_VDwM-Otp-9voePqrYel7wQxELg&sa=D&usg=AFQjCNF7h2r5a8ILF5zgZOjmDQd_DrFzBg" target="_blank">http://www.cardapion.com.br</a></p>
+</div> <div jsname="WJz9Hc" style="display:none">• The CardapiOn is a Gastronomic Guide Menus Online;<br>• Allows users to find bars, restaurants and cafeterias and know their menus and promotions available on the platform.<p>• It has a simple interface, which distributes the establishments into categories for easy handling of users:</p>
+<p>•• Search: Search by name of the establishment or what you want to eat;<br>•• Near Me: Discover the establishments 'open' who are close to you in just 1 CLICK;<br>•• Offers and Promotions: We present the offers and daily deals offered by partner institutions and highlighted in a special place on site for you to enjoy and save;<br>•• It Delivery: is unwell with that laziness and / or fatigue? Then see the companies that make delivery! See the menu and call to place your order;<br>•• Open Now: Want to go in a different place and not know? See who is Now Open!<br>•• Categories: You know what you want to eat, but do not know where to eat? Then choose one of our categories and see the best in town;<br>•• Information: See the services offered by the establishment researched / selected: address, telephone numbers, hours of operation, types of payment and other services.<br>•• Menus: Know the products and prices, classified and organized into groups.<br>•• How to Get There: We show you the way! Presented by Google Maps its position and the exact position of all the establishments that want to go and draw a route for you to move with better ease and comfort.<br>•• Photos Dishes: Our menus feature illustrative photos of the products to sharpen your desire to eat;</p>
+<p>• The CardapiOn is the ideal guide for you who wants to learn more about the cuisine of his city without wasting time.</p>
+<p>♥ Follow us on Instagram: <a href="https://www.google.com/url?q=http://www.instagram.com/appcardapion&sa=D&usg=AFQjCNEHjesO5UIjKURMYoOABrG4d3hoXg" target="_blank">http://www.instagram.com/appcardapion</a><br>♣ Like to our Facebook page: <a href="https://www.google.com/url?q=http://www.facebook.com/appcardapion&sa=D&usg=AFQjCNHv8A5s8gT8999B9AQ317c8IKu3ig" target="_blank">http://www.facebook.com/appcardapion</a><br>♦ Learn more about CardapiOn® in: <a href="https://www.google.com/url?q=http://www.cardapion.com.br&sa=D&usg=AFQjCNE_VDwM-Otp-9voePqrYel7wQxELg" target="_blank">http://www.cardapion.com.br</a></p>
+</div> <div class="show-more-end" jsaction="click:vhaaFf"></div>

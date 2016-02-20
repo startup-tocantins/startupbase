@@ -25,11 +25,11 @@ layout: default
       <div class="grids_of_3">
         {% for post in site.posts limit:3 %}
         <div class="grid1_of_3">
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            <img src="images/pic1.jpg" alt=""/>
+          <a href="{{ post.market_url }}">
+            <img src="http://{{ post.banner_icon_url }}" alt=""/>
             <h3>{{ post.title }}</h3>
             <div class="price">
-              <h4>$300<span>indulge</span></h4>
+              <h4>{{ post.installs }}<span>Acessar</span></h4>
             </div>
             <span class="b_btm"></span>
           </a>
@@ -43,11 +43,11 @@ layout: default
       <div class="grids_of_3">
         {% for post in site.posts limit:3 offset:3 %}
         <div class="grid1_of_3">
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            <img src="images/pic1.jpg" alt=""/>
+          <a href="{{ post.market_url}}">
+            <img src="http://{{ post.banner_icon_url }}" alt=""/>
             <h3>{{ post.title }}</h3>
             <div class="price">
-              <h4>$300<span>indulge</span></h4>
+              <h4>{{ post.installs }}<span>Acessar</span></h4>
             </div>
             <span class="b_btm"></span>
           </a>
