@@ -22,33 +22,30 @@ layout: default
       <!-- start grids_of_3 -->
 
 
-      <div class="grids_of_3">
-        {% for post in site.posts limit:3 %}
-        <div class="grid1_of_3">
-          <a href="{{ post.market_url }}">
-            <img src="http://{{ post.banner_icon_url }}" alt=""/>
-            <h3>{{ post.title }}</h3>
-            <span class="b_btm"></span>
-          </a>
-        </div>
+        
+        {% for post in site.posts %}
+
+          {% assign modulo = forloop.index0 | modulo: 3 %}
+          
+          {% if modulo == 0 or forloop.first %}
+            <div class="grids_of_3">          
+          {% endif %}
+
+
+            <div class="grid1_of_3">
+              <a href="{{ post.market_url }}">
+                <img src="http://{{ post.banner_icon_url }}" alt=""/>
+                <h3>{{ post.title }} {{ modulo }} </h3>
+                <span class="b_btm"></span>
+              </a>
+            </div>
+
+            {% if modulo == 2 or forloop.last %}
+              <div class="clear"></div>
+            </div>
+          {% endif %}
+
         {% endfor %}
-        <div class="clear"></div>
-      </div>
-
-
-
-      <div class="grids_of_3">
-        {% for post in site.posts limit:3 offset:3 %}
-        <div class="grid1_of_3">
-          <a href="{{ post.market_url}}">
-            <img src="http://{{ post.banner_icon_url }}" alt=""/>
-            <h3>{{ post.title }}</h3>
-            <span class="b_btm"></span>
-          </a>
-        </div>
-        {% endfor %}
-        <div class="clear"></div>
-      </div>
 
 
       <!-- end grids_of_3 -->
