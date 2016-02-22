@@ -1,0 +1,21 @@
+  <!-- start slider -->
+  <div id="da-slider" class="da-slider">
+  
+
+    {% for post in site.posts %}
+      {% if post.featured %}      
+        <div class="da-slide">
+          <h2> {{ post.title  }} </h2>
+          <p>{{  post.content | strip_html | truncatewords:75 }}...</p>
+          <a href="{{ post.market_url }}" class="da-link">Detalhes</a>
+          <div class="da-img"><img src="http://{{ post.banner_icon_url }}" alt="image01" /></div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  
+    <nav class="da-arrows">
+      <span class="da-arrows-prev"></span>
+      <span class="da-arrows-next"></span>
+    </nav>
+  </div>
+</div>

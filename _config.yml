@@ -1,0 +1,13 @@
+# Site settings
+title: Startup Base - Todas Startups do Tocantins em um só lugar
+email: contato@luizcarvalho.com
+description: > # this means to ignore newlines until "baseurl:"
+  Lista com todas as Startups do Tocantins
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://startupbase.org" # the base hostname & protocol for your site
+twitter_username: luizcarvalho
+github_username:  luizcarvalho
+
+# Build settings
+markdown: kramdown
+permalink: :title
