@@ -6,7 +6,7 @@ title:                "Tonolucro - Compras Coletivas"
 featured:              false
 stage:                execution
 email:                "contato@tonolucro.com.br"
-image:                "lh6.ggpht.com/kSBYqs52QVKnMD2uOmJmBr-LPEO977HdNbOZL8o49Kt6ow2_IgLt-9ioySCSFs-9MZ8=w300"
+image:                "http://lh6.ggpht.com/kSBYqs52QVKnMD2uOmJmBr-LPEO977HdNbOZL8o49Kt6ow2_IgLt-9ioySCSFs-9MZ8=w300"
 video_url:            "0mlG-rbBX5A"
 site:                 "http://www.tonolucro.com.br"
 

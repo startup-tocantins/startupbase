@@ -6,7 +6,7 @@ title:                "EventMania Check-in"
 featured:              false
 stage:                execution
 email:                "suporte@eventmania.com.br"
-image:                "lh5.ggpht.com/P6MTruiNEjvh7Yk1DjpVECNoK7H_lz2Kos6xI4sLpFG7ZWf-TXIlOLeY5bHOE-sI93I4=w300"
+image:                "http://lh5.ggpht.com/P6MTruiNEjvh7Yk1DjpVECNoK7H_lz2Kos6xI4sLpFG7ZWf-TXIlOLeY5bHOE-sI93I4=w300"
 video_url:            ""
 site:                 "http://www.eventmania.com.br"
 

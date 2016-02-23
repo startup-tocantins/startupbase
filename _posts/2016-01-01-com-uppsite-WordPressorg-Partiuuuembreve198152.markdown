@@ -6,7 +6,7 @@ title:                "Partiuuu"
 featured:              false
 stage:                execution
 email:                "300dpiweb@gmail.com"
-image:                "lh5.ggpht.com/J1pqooMBlptuOVAfwaqRRhL9cvDUaHPbpR18Iis79ctbkyBUWLaXLHFt8pVXnEOWccM=w300"
+image:                "http://lh5.ggpht.com/J1pqooMBlptuOVAfwaqRRhL9cvDUaHPbpR18Iis79ctbkyBUWLaXLHFt8pVXnEOWccM=w300"
 video_url:            "tJv1guA0ugI"
 site:                 "http://www.partiuuu.com"
 
