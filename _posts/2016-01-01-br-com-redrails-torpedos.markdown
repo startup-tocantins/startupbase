@@ -3,7 +3,7 @@ layout:               post
 
 
 title:                "Droido - Mensagens SMS prontas"
-featured:              false
+featured:              true
 stage:                execution
 email:                "luizcarvalho@redrails.com.br"
 image:                "http://lh3.ggpht.com/dWwVd-4_QqKWR_b9Ojntsr2P-4lDRdynqZV0WukZhOIDAUvzuSCki6uA1CEMz_21VQ=w300"

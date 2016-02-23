@@ -3,7 +3,7 @@ layout:               post
 
 
 title:                "DuLado"
-featured:              false
+featured:              true
 stage:                execution
 email:                "duladoapp@gmail.com"
 image:                "http://lh3.googleusercontent.com/OQOi8sejEMZd2YhuDU66yg8QQeyRyOBVuvSpbNXEBrlmKX8uUKAQQx5KbPOhMio0ZA=w300"
