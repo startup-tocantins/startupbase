@@ -1,7 +1,7 @@
 ---
 layout:               post
 title:                "Startup Talk no Subway"
-image:      "statupbase.info/images/parceiros/subway.png"
+image:      "/images/parceiros/subway.png"
 market_url:           "/startuptalk-subway"
 featured:              true
 ---
