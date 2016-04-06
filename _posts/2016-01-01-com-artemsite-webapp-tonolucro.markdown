@@ -1,6 +1,16 @@
 ---
 layout:               post
+
+
 title:                "Tonolucro - Compras Coletivas"
+featured:              false
+stage:                execution
+email:                "contato@tonolucro.com.br"
+image:                "http://lh6.ggpht.com/kSBYqs52QVKnMD2uOmJmBr-LPEO977HdNbOZL8o49Kt6ow2_IgLt-9ioySCSFs-9MZ8=w300"
+video_url:            "0mlG-rbBX5A"
+site:                 "http://www.tonolucro.com.br"
+
+
 date:                 "February 9, 2015"
 categories:           "Shopping"
 app_id:               "com.artemsite.webapp.tonolucro"
@@ -12,13 +22,9 @@ content_rating:       "All agesLearn more"
 votes:                "57"
 developer:            "ArtemSite"
 banner_icon_url:      "lh6.ggpht.com/kSBYqs52QVKnMD2uOmJmBr-LPEO977HdNbOZL8o49Kt6ow2_IgLt-9ioySCSFs-9MZ8=w300"
-banner_image_url:     "lh6.ggpht.com/kSBYqs52QVKnMD2uOmJmBr-LPEO977HdNbOZL8o49Kt6ow2_IgLt-9ioySCSFs-9MZ8=w300"
-website_url:          "http://www.tonolucro.com.br"
-email:                "contato@tonolucro.com.br"
-youtube_video_ids:    "0mlG-rbBX5A"
 category_url:         "SHOPPING"
 market_url:           "https://play.google.com/store/apps/details?id=com.artemsite.webapp.tonolucro&hl=en"
-featured:              false
+
 ---
 - Compre cupons de desconto- Seja alertado sobre novas ofertas- Acompanhe seus pedidos- Realize o pagamento do seus cupons pelo celularO Tonolucro.com.br é o melhor site de compras coletivas no Tocantins, atendendo as cidades de Palmas, Araguaína, Gurupi entre outras com descontos incríveis de 40 a 90% em produtos e serviços de estabelecimentos da região.
 Com esse aplicativo você irá acompanhar diariamente as novas ofertas, comprar, visualizar cupons e muito mais.To no lucro!

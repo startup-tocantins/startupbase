@@ -1,6 +1,16 @@
 ---
 layout:               post
+
+
 title:                "CardapiOn: Guia Gastronômico"
+featured:              false
+stage:                execution
+email:                "cardapion.app@gmail.com"
+image:                "http://lh3.googleusercontent.com/o7f8FGF99OFOqeEaeNGGhfjAQZmtfyUOCBreMDHfjUagvnVfyUYoOihLxjxWk-oU-OCS=w300"
+video_url:            ""
+site:                 "http://www.cardapion.com.br"
+
+
 date:                 "November 3, 2015"
 categories:           "Travel & Local"
 app_id:               "br.com.cardapion.cardapion"
@@ -11,14 +21,10 @@ price:                "0"
 content_rating:       "All agesLearn more"
 votes:                "86"
 developer:            "Plus API"
-banner_icon_url:      "lh3.googleusercontent.com/o7f8FGF99OFOqeEaeNGGhfjAQZmtfyUOCBreMDHfjUagvnVfyUYoOihLxjxWk-oU-OCS=w300"
-banner_image_url:     "lh3.googleusercontent.com/o7f8FGF99OFOqeEaeNGGhfjAQZmtfyUOCBreMDHfjUagvnVfyUYoOihLxjxWk-oU-OCS=w300"
-website_url:          "http://www.cardapion.com.br"
-email:                "cardapion.app@gmail.com"
-youtube_video_ids:    ""
+banner_icon_url:      "http://lh3.googleusercontent.com/o7f8FGF99OFOqeEaeNGGhfjAQZmtfyUOCBreMDHfjUagvnVfyUYoOihLxjxWk-oU-OCS=w300"
 category_url:         "TRAVEL_AND_LOCAL"
 market_url:           "https://play.google.com/store/apps/details?id=br.com.cardapion.cardapion&hl=en"
-featured:              true
+
 ---
 • O CardapiOn é um Guia Gastronômico de Cardápios Online;• Permite os usuários encontrarem bares, restaurantes e lanchonetes e conhecerem seus cardápios e promoções disponíveis na plataforma.• Possui uma Interface simples, onde distribui os estabelecimentos em categorias, facilitando o manuseio dos usuários:
 •• Procurar: pesquisa pelo nome do estabelecimento ou pelo que você deseja comer;•• Perto de Mim: Descubra os estabelecimentos "abertos" que estão próximos de você em apenas 1 CLICK;•• Ofertas e Promoções: Apresentamos as ofertas e promoções do dia oferecidas pelos estabelecimentos parceiros e destacamos em um lugar no site especial para você curtir e economizar;•• Faz Entrega: Está indisposto, com aquela preguiça e/ou cansaço? Então veja as empresas que fazem entrega! Veja o cardápio e ligue para fazer seu pedido;•• Abertos Agora: Quer ir em um lugar diferente e não sabe? Veja quem está Aberto Agora!•• Categorias: Já sabe o que quer comer, mas não sabe onde comer? Então escolha uma das nossas categorias e veja os melhores da cidade;•• Informações: Veja os serviços oferecidos pelo estabelecimento pesquisado/selecionado: Endereço, Telefones, horários de funcionamento, formas de pagamentos e demais serviços.•• Cardápios: Conheça os produtos e preços, classificados e organizados em grupos.••  Como Chegar: Mostramos para você o caminho! Apresentamos através do Google Maps a sua posição e a posição exata de todos os estabelecimentos que deseja ir e traçamos uma rota para que você se desloque com melhor facilidade e conforto.•• Fotos dos Pratos: Nossos cardápios possuem fotos ilustrativas dos produtos para aguçar a sua vontade de comer;

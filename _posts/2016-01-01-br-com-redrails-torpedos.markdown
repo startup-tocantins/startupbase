@@ -1,6 +1,16 @@
 ---
 layout:               post
+
+
 title:                "Droido - Mensagens SMS prontas"
+featured:              true
+stage:                execution
+email:                "luizcarvalho@redrails.com.br"
+image:                "http://lh3.ggpht.com/dWwVd-4_QqKWR_b9Ojntsr2P-4lDRdynqZV0WukZhOIDAUvzuSCki6uA1CEMz_21VQ=w300"
+video_url:            "EImJdDWeuqg"
+site:                 "http://www.redrails.com.br"
+
+
 date:                 "July 9, 2014"
 categories:           "Communication"
 app_id:               "br.com.redrails.torpedos"
@@ -9,18 +19,14 @@ installs:             "100,000 - 500,000"
 size:                 "1.4M"
 price:                "0"
 content_rating:       "Rated 14+Sexual Content, Inappropriate LanguageLearn more"
-votes:                "2439"
+votes:                "2438"
 developer:            "luizcarvalho.com"
-banner_icon_url:      "lh3.ggpht.com/dWwVd-4_QqKWR_b9Ojntsr2P-4lDRdynqZV0WukZhOIDAUvzuSCki6uA1CEMz_21VQ=w300"
-banner_image_url:     "lh3.ggpht.com/dWwVd-4_QqKWR_b9Ojntsr2P-4lDRdynqZV0WukZhOIDAUvzuSCki6uA1CEMz_21VQ=w300"
-website_url:          "http://www.redrails.com.br"
-email:                "luizcarvalho@redrails.com.br"
-youtube_video_ids:    "EImJdDWeuqg"
+banner_icon_url:      "http://lh3.ggpht.com/dWwVd-4_QqKWR_b9Ojntsr2P-4lDRdynqZV0WukZhOIDAUvzuSCki6uA1CEMz_21VQ=w300"
 category_url:         "COMMUNICATION"
 market_url:           "https://play.google.com/store/apps/details?id=br.com.redrails.torpedos&hl=en"
-featured:              true
+
 ---
-Completamente Grátis e Offline, Droido Mensagens SMS Prontas é o Melhor Aplicativo com modelos de torpedos prontos e trás pra você uma coleção de mensagens SMS selecionadas  divididas em categorias, sendo assim você não vai mais gastar seu tempo procurando uma mensagem no meio de tantas sem graça.
+Fale conosco, acesse : https://www.facebook.com/droido.appsCompletamente Grátis e Offline, Droido Mensagens SMS Prontas é o Melhor Aplicativo com modelos de torpedos prontos e trás pra você uma coleção de mensagens SMS selecionadas  divididas em categorias, sendo assim você não vai mais gastar seu tempo procurando uma mensagem no meio de tantas sem graça.
 Nessa nova versão adicionamos uma coisa especial, agora sempre que existir mensagens novas avisaremos você pela notificação e você imediatamente baixa as novas mensagens. Não precisa baixar o aplicativo novamente. Não é fantástico?
 Para facilitar e agilizar ainda mais a busca de mensagens e que realmente interessam a você, o aplicativo ainda oferece várias formas de ordenação de mensagens como Ordenar por melhores avaliadas pela comunidade, por mensagens mais novas, suas mensagens favoritas, mensagens que ainda não foram enviadas e ainda mensagens que você já enviou. 
 Ainda não está satisfeito? pois bem oferecemos ainda a você um busca avançada para que você ache qualquer mensagens que esteja em nosso aplicativo rapidinho. Bom né? mas espera ai ainda tem mais...
