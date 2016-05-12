@@ -2,7 +2,7 @@
 layout:               post
 title:                "Startup Talk no Subway"
 image:      "/images/parceiros/subway.png"
-market_url:           "/startuptalk-subway"
-featured:              true
+market_url:           "especial/subway"
+featured:              false
 ---
 Hoje teremos nosso Startup Talk especial no Subway, falaremos sobre editais de finaciamento e como você pode conseguir investimentos para sua ideia sair do papel ou conseguir tração para atingir seu mercado. Para esse evento excepcionalmente trabalharemos com lista de confirmação limitado a 25 participantes, então não perca tempo e garanta agora sua vaga. http://startupbase.info/startuptalk-subway
