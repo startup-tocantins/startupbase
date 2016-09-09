@@ -8,7 +8,7 @@ $(document).ready(function(){
       nome: $("#nome").val(),
       phone: $("#phone").val(),
       url: $("#url").val(),
-      perfil: $("#perfil").val(),
+      perfil: get_perfil(),
       startup: $("#startup").val(),
       email: $("#email").val(),
       mensagem: $("#mensagem").val(),
@@ -22,3 +22,11 @@ $(document).ready(function(){
   });
 
 });
+
+function get_perfil() {
+  perfis = [];
+     $('input:checkbox:checked').each(function() {
+     perfis.push($(this).val());
+   });
+   return perfis;
+}
