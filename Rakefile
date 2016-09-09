@@ -4,15 +4,11 @@ require 'pry'
 require 'erb'
 require 'action_view'
 
-
 task :getapps do
   File.open('startups.list', 'r').each_line do |package|
-
     get_play_information(package.chomp)
-  end
-  
+  end  
 end
-
 
 def get_play_information(package)
   post_file = "_posts/2016-01-01-#{package.gsub('.','-')}.markdown"
@@ -29,4 +25,8 @@ def get_play_information(package)
   else
     puts "skip #{package}"
   end
+end
+
+def abs_statups_info
+  'http://startupbase.abstartups.com.br/startups?q%5Bstate_cont%5D=to'
 end

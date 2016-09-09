@@ -1,0 +1,47 @@
+---
+layout: simple
+---
+<!-- start main -->
+<div class="main_bg">
+  <div class="wrap">  
+    <div class="main">
+     <div class="contact">        
+      <div class="contact-form">
+        <h2>CADASTRO</h2>
+
+        <form id="cadastro">
+
+          <label for="nome">Nome</label>
+          <input type="text" id="nome" required>
+
+          <label for="email">e-mail</label>
+          <input type="text" id="email" type="email" required>
+
+          <label for="phone">Whatsapp</label>
+          <input type="text" id="phone" type="phone">
+          
+          <label for="startup">Tipo</label>
+          <select name="tipo" id="tipo" multiple>
+            <option value="Empreendedor"></option>
+            <option value="Fomentador"></option>
+            <option value="Desenvolvedor"></option>
+            <option value="Designer"></option>
+            <option value="Cowork/Aceleradora/Incubadora"></option>
+          </select>
+
+          <label for="startup">Nome de sua Startup</label>
+          <input type="text" id="startup">
+
+          <label for="url">Link para sua</label>
+          <input type="text" id="url" type="url">
+
+          <label for="mensagem">Mensasagem</label>
+          <textarea id="mensagem"></textarea>
+
+          <input type="submit" value="Enviar">
+        </form>
+      </div>
+      <div class="clear"></div>   
+    </div>
+  </div>
+</div>
