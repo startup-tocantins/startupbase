@@ -1,3 +1,24 @@
 .contact-form input[type="text"], .contact-form textarea{
     width: 70%;
+    margin-bottom: 15px;
+}
+
+.contact-form select{
+  margin-bottom: 15px;
+}
+
+
+p.normal {
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 70%;
+    color: gray;
+    font-size: 18px;
+    line-height: 26px;
+    height: 80px;
+    overflow: hidden;
+    margin-left: 30px;
+}
+
+.logo{
+  padding-left: 20px;
 }

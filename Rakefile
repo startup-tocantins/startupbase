@@ -28,5 +28,5 @@ def get_play_information(package)
 end
 
 def abs_statups_info
-  'http://startupbase.abstartups.com.br/startups?q%5Bstate_cont%5D=to'
+  'http://amazoniavalley.org/?feed=job_feed&search_location&job_categories=startups&search_keywords&job_region=59'
 end

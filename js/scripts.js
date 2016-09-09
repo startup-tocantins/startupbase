@@ -8,6 +8,8 @@ $(document).ready(function(){
       nome: $("#nome").val(),
       phone: $("#phone").val(),
       url: $("#url").val(),
+      tipo: $("#tipo").val(),
+      startup: $("#startup").val(),
       email: $("#email").val(),
       mensagem: $("#mensagem").val(),
       data_cadastro: Firebase.ServerValue.TIMESTAMP

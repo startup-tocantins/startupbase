@@ -3,7 +3,7 @@ layout:               post
 
 
 title:                "Partiuuu"
-featured:              false
+featured:              true
 stage:                execution
 email:                "300dpiweb@gmail.com"
 image:                "http://lh5.ggpht.com/J1pqooMBlptuOVAfwaqRRhL9cvDUaHPbpR18Iis79ctbkyBUWLaXLHFt8pVXnEOWccM=w300"
