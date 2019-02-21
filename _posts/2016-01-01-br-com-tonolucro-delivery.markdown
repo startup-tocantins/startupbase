@@ -3,7 +3,7 @@ layout:               post
 
 
 title:                "Tonolucro Delivery"
-featured:              false
+featured:              true
 stage:                execution
 email:                "delivery@tonolucro.com.br"
 image:                "http://lh3.googleusercontent.com/zthX-I2Z4MHbzg1GoAxJVSSSVH-beli-CJLnp2zvvq4rOcOBstxKHQz4dOjXYwVcKg=w300"

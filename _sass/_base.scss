@@ -8,8 +8,6 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
-
 /**
  * Basic styling
  */
@@ -201,4 +199,8 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+.contact.contact-form input{
+    width: 50%;
 }

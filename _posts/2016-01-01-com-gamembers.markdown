@@ -3,7 +3,7 @@ layout:               post
 
 
 title:                "Gamembers"
-featured:              true
+featured:              false
 stage:                execution
 email:                "vaneves@vaneves.com"
 image:                "http://lh3.googleusercontent.com/e5aILZFmJoYsAwtSY1_9UdESsauqyGvQhhMyQg4s_-Hec8b0FJL7vbZ43iS4KFxRPIE=w300"

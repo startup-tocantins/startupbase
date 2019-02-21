@@ -3,7 +3,7 @@ layout:               post
 
 
 title:                "CardapiOn: Guia Gastronômico"
-featured:              false
+featured:              true
 stage:                execution
 email:                "cardapion.app@gmail.com"
 image:                "http://lh3.googleusercontent.com/o7f8FGF99OFOqeEaeNGGhfjAQZmtfyUOCBreMDHfjUagvnVfyUYoOihLxjxWk-oU-OCS=w300"

@@ -3,7 +3,7 @@ layout:               post
 
 
 title:                "Na luta contra o mosquito"
-featured:              true
+featured:              false
 stage:                execution
 email:                "consisti@consisti.net"
 image:                "http://lh3.googleusercontent.com/Ui_TRt4PshG7f5oIyftb4rIk7TiJlS-xu1uRGtjc2DEjY4kSkDi-Uw-gDDqk7t9QwqI=w300"

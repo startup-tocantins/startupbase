@@ -3,7 +3,7 @@ layout:               post
 
 
 title:                "tôChegando"
-featured:              false
+featured:              true
 stage:                execution
 email:                "contato@nuvols.com.br"
 image:                "http://lh3.googleusercontent.com/7hd71eV0Q6BKcJR16cm7I6k4UGfYwJe6Z52JRYyjX9b3hCPfjNzAOauinptIjpcO2UcA=w300"
